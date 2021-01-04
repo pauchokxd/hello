@@ -4,3 +4,4 @@ class M {
         wL("Hello, " + scanner.nextLine());
     }
 }
+22222
