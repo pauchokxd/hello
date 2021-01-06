@@ -6,4 +6,3 @@ class Main {
         System.out.println("Hello, " + scanner.nextLine()+",  Nice to meet you!");
     }
 }
-123123
