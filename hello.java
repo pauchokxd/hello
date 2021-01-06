@@ -4,3 +4,4 @@ class M {
         wL("Hello, " + scanner.nextLine()+",  Nice to meet you!");
     }
 }
+123123
